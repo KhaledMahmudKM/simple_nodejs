@@ -1,6 +1,6 @@
 # Readme
 
-This is a demonstration project that renders a simple web page. It also a simple api server. Node.js and express.js is used.
+This is a demonstration project of `Node.js`. It uses simple `Node.js` + `Express` app that serves a static webpage and a `/api` route returning random quotes.
 
 ### 1. Folder Structure
 ```
@@ -22,6 +22,10 @@ npm install
 
 ### 3. Run the App
 Run the following from top of the folder where `server.js` file resides.
+```
+npm start
+```
+or
 ```
 node server.js
 ```
