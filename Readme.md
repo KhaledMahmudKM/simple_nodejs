@@ -3,6 +3,7 @@
 This is a demonstration project that renders a simple web page. It also a simple api server. Node.js and express.js is used.
 
 ### 1. Folder Structure
+```
 simple_nodejs/
 ├── server.js
 ├── package.json
@@ -11,6 +12,7 @@ simple_nodejs/
     ├── index.html
     ├── style.css
     └── script.js
+```
 
 ### 2. Install packages
 Run the following from the folder where `package.json` resides.
